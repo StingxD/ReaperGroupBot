@@ -30,14 +30,13 @@ PM_START_TEXT = """
 
 Hello {}, My Name Is {} !
 
-I Am A Group Manager Bot Maintained By [This Person](https://t.me/grimreapeer).
+I Am A Group Manager Bot Maintained By [This Person](https://t.me/StingxD).
 
-To add me to your group click ["HERE"](t.me/thereapeer_bot?startgroup=botstart)
+To add me to your group click ["HERE"](t.me/SushantSingh_ProBot?startgroup=botstart)
 You can find my list of available commands with /help.
 
-Here is my [Deploy Code](https://github.com/udhay018777/ReaperGroupBot/)
 
-If you find any issues report at [Support Chat](https://t.me/reaperbot_official)
+If you find any issues report at [Support Chat](https://t.me/SushantSupport)
 
 """
 HELP_STRINGS = """
